@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled 
+0345dd3e69eaef37afdbb2ce6f31fa9ced67d970 refs/heads/master
+89f1abc51e147922f2b5740876dbe07a8a130d58 refs/heads/starter-plugins-v1
+dea59c3e08ce8feaff6a4f16a87a4b2fd6058159 refs/heads/wp-no-bootstrap
+5c4dd690994a2834ddb219f207bb210d44a114db refs/heads/wp-react-rest
